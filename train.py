@@ -10,7 +10,7 @@ from tensorflow.keras.initializers import glorot_normal
 from tensorflow.keras.callbacks import ModelCheckpoint
 import keras
 import os
-
+import numpy
 
 def main():
     # Model Parameters
